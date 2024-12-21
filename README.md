@@ -1,6 +1,6 @@
 # MemeToken Generator 🎨
 
-![MemeToken, by codingsh](public/src/public/screenshot.png)
+![MemeToken, by codingsh](https://github.com/aipop-fun/MemeToken/blob/main/public/screenshot.png?raw=true) 
 
 An AI-powered platform for generating and deploying meme tokens on Base and baseSepolia networks. Create unique tokens with AI-generated names, symbols, and images through an intuitive interface.
 
